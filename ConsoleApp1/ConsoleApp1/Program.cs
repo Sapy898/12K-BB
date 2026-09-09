@@ -37,6 +37,14 @@
 
             _books.PrintAll();
             Console.WriteLine(_books.BookCount); 
+
+            _books.FindByTitle("The Climber").Describe();
+
+            List<Book> bok = _books.FindByAuthor("idk");
+            foreach (Book item in bok) 
+            {
+                item.Describe();
+            }
         }
     }
 }

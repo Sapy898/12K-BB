@@ -33,16 +33,28 @@ namespace ConsoleApp1
             }
         }
 
-        public string FindByTitle(string title)
+        public Book FindByTitle(string title)
         {
             foreach (Book book in _books) 
             {
                 if (book.Title == title)
                 {
-                    return book.Describe();
+                    return book;
                 }
-                else { return null; }
             }
+            return null;
+        }
+        public List<Book> FindByAuthor(string author)
+        {
+            List<Book> booksByAuthor = new List<Book>();
+            foreach (Book book in _books)
+            {
+                if (book.Author == author)
+                {
+                    booksByAuthor.Add(book);   
+                }
+            }
+            return booksByAuthor;
         }
     }
 }
