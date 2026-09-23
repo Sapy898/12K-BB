@@ -1,0 +1,32 @@
+Cyberpunk 2077;RPG;CD Projekt;2020;19990;8.6
+The Witcher 3;RPG;CD Projekt;2015;11990;9.7
+Thronebreaker;RPG;CD Projekt;2018;6990;8.1
+Red Dead Redemption 2;Action;Rockstar Games;2018;18990;9.6
+Grand Theft Auto V;Action;Rockstar Games;2013;9990;9.4
+Max Payne 3;Action;Rockstar Games;2012;5990;8.5
+Elden Ring;RPG;Bandai Namco;2022;21990;9.5
+Dark Souls 3;RPG;Bandai Namco;2016;13990;9.2
+Tekken 8;Fighting;Bandai Namco;2024;23990;8.8
+FIFA 23;Sports;Electronic Arts;2022;12990;7.4
+FIFA 22;Sports;Electronic Arts;2021;8990;7.2
+Need for Speed Heat;Racing;Electronic Arts;2019;10990;7.8
+Battlefield 2042;Shooter;Electronic Arts;2021;15990;6.8
+The Sims 4;Simulation;Electronic Arts;2014;4990;8.0
+Forza Horizon 5;Racing;Xbox Game Studios;2021;19990;9.1
+Forza Horizon 4;Racing;Xbox Game Studios;2018;12990;9.0
+Minecraft Legends;Strategy;Xbox Game Studios;2023;14990;7.3
+Halo Infinite;Shooter;Xbox Game Studios;2021;17990;8.4
+God of War;Action;Sony;2018;13990;9.5
+God of War Ragnarok;Action;Sony;2022;22990;9.4
+Gran Turismo 7;Racing;Sony;2022;20990;8.7
+Spider Man 2;Action;Sony;2023;23990;9.0
+Horizon Forbidden West;Action;Sony;2022;19990;8.8
+Super Mario Odyssey;Platformer;Nintendo;2017;17990;9.6
+Mario Kart 8 Deluxe;Racing;Nintendo;2017;18990;9.3
+Pokemon Scarlet;RPG;Nintendo;2022;19990;7.5
+Animal Crossing New Horizons;Simulation;Nintendo;2020;18990;9.0
+Super Smash Bros Ultimate;Fighting;Nintendo;2018;19990;9.2
+Assassins Creed Valhalla;Action;Ubisoft;2020;14990;8.0
+Far Cry 6;Shooter;Ubisoft;2021;13990;7.7
+Watch Dogs Legion;Action;Ubisoft;2020;10990;7.4
+Rainbow Six Siege;Shooter;Ubisoft;2015;7990;8.6
