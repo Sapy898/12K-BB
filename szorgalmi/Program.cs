@@ -48,10 +48,17 @@
             }
             Console.WriteLine("_______________________");
 
-
-            
-
-
+            EnergyMeter limit = new EnergyMeter(10000);
+            Console.WriteLine($"{h1.Name} 3 órát ment: "+limit.Run(h1, 3));
+            Console.WriteLine($"A limit-ből maradt: {limit.Remaining()}");
+            Console.WriteLine($"{f1.Name} 24 órát ment: " + limit.Run(f1, 24));
+            Console.WriteLine($"A limit-ből maradt: {limit.Remaining()}");
+            Console.WriteLine($"{d1.Name} 5 órát ment: " + limit.Run(d1, 5));
+            Console.WriteLine($"A limit-ből maradt: {limit.Remaining()}");
+            Console.WriteLine($"{h1.Name} 3 órát ment: " + limit.Run(h1, 3));
+            Console.WriteLine($"A limit-ből maradt: {limit.Remaining()}");
+            Console.WriteLine($"{f1.Name} 24 órát ment: " + limit.Run(f1, 24));
+            Console.WriteLine($"A limit-ből maradt: {limit.Remaining()}");
 
         }
     }
